@@ -8,6 +8,6 @@ promedio_padawan = float(input("Ingrese el promedio del Padawan: "))
 # condicional if
 if promedio_padawan > 18:
     descuento = matricula * 0.15
-    print(f"El monto final a pagar es de: {matricula - descuento:.2f} Bs")
+    print(f"El monto final a pagar es de: {matricula - descuento:.2f} ")
 else:
     print("No aplica descuento")
