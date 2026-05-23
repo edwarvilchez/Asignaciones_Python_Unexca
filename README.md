@@ -1,6 +1,6 @@
-# Asignación 1: Introducción a la Programación con Python - UNEXCA
+# Asignaciones Introducción a la Programación con Python - UNEXCA
 
-Este repositorio contiene las soluciones detalladas y el material de apoyo para la primera asignación de la cátedra de Programación en la **Universidad Nacional Experimental de la Gran Caracas (UNEXCA)**.
+Este repositorio contiene las soluciones detalladas y el material de apoyo para las asignaciones de la cátedra de Programación en la **Universidad Nacional Experimental de la Gran Caracas (UNEXCA)**.
 
 ## 🎯 Objetivo de la Actividad
 El propósito de esta asignación es que los estudiantes (mis "padawans") dominen los fundamentos básicos de Python, incluyendo:
